@@ -1,15 +1,15 @@
 <h1 align="center">Olá! Chamo-me Guilherme Henrique Favaro</h1>
 <h3 align="center">Um estudante de segurança cibernética e full-stack developer, aqui tem alguns dos meus projetos!</h3>
 
-- 🌱 Atualmente, estudo desenvolvimento e segurança para sistemas web **Mitre, OWASP e Django**
+- 🌱 Atualmente, estudo desenvolvimento e segurança para sistemas web: **Mitre, OWASP e Django**
 
 - 💬 Pergunte-me sobre: **Segurança, desenvolvimento**
 
-- 📫 Como me contatar: **awkward_lancer@protonmail.com**
+- 📫 Como me contatar: **guifavaro2004@gmail.com**
 
 - ⚡ Fatos interessantes: **Sou extremamente curioso e cabeça dura, não desisto de um projeto até conclui-lo**
 
-### Blogs posts
+### Posts nos blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

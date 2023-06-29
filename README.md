@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Chamo-me Guilherme Henrique Favaro</h1>
-<h3 align="center">Um estudante de segurança cibernética e full-stack developer, aqui tem alguns dos meus projetos!</h3>
+<h3 align="center">Um autodidata na segurança cibernética e full-stack developer, aqui tem alguns dos meus projetos!</h3>
 
 - 🌱 Atualmente, estudo desenvolvimento e segurança para sistemas web: **Mitre, OWASP e Django**
 
@@ -7,7 +7,7 @@
 
 - 📫 Como me contatar: **guifavaro2004@gmail.com**
 
-- ⚡ Fatos interessantes: **Sou extremamente curioso e cabeça dura, não desisto de um projeto até conclui-lo**
+- ⚡ Fatos interessantes: **Trabalho como estagiário com big data e inteligência artificial**
 
 ### Posts nos blogs
 <!-- BLOG-POST-LIST:START -->
